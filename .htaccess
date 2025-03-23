@@ -1,3 +1,4 @@
+#ไฟล์นี้กำหนดรูปแบบการเข้าถึง การเรียกใช้ EndPoint
 Header set Access-Control-Allow-Origin "*"
 #กำหนด http method สำหรับ CRUD (Create, Read, Update, Delete)
 Header set Access-Control-Allow-Origin "GET, POST, PUT, DELETE"
